@@ -13,6 +13,7 @@ export default function Courses() {
         <Image
         src={waec}
         fill={true}
+        alt="waec"
         objectFit="cover"
         />
       </div>
@@ -24,6 +25,7 @@ export default function Courses() {
         <Image
         src={igcse}
         fill={true}
+        alt="igcse"
         objectFit="contain"
         />
         </div>
@@ -35,6 +37,7 @@ export default function Courses() {
         <Image
         src={aqa}
         fill={true}
+        alt="aqa"
         objectFit="cover"
         />
       </div>
@@ -46,6 +49,7 @@ export default function Courses() {
         <Image
         src={ocr}
         fill={true}
+        alt="ocr"
         objectFit="cover"
         />
       </div>

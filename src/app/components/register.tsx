@@ -4,8 +4,6 @@ import { useEffect, useState } from 'react';
 
 
 export default function Register() {
-  const apiKey = process.env.FORMSPREE_API_KEY;
-
   const [state, handleSubmit] = useForm("xldlbwrb");
   const [formSuccess, setFormSuccess] = useState(false);
 

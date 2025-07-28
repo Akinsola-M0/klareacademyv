@@ -12,6 +12,7 @@ export default function Header() {
         <Image 
         src = {heroImage}
         fill={true}
+        alt="hero"
         objectFit="cover"
         />
       </div>

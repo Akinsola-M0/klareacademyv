@@ -14,6 +14,7 @@ export default function Works() {
         <Image
           src={live}
           fill={true}
+          alt="live sessions"
           objectFit="cover"
         />
       </div>
@@ -27,6 +28,7 @@ export default function Works() {
         <Image 
         src={flexible}
         fill={true}
+        alt="flexible learning"
         objectFit="cover"
         />
       </div>
@@ -40,6 +42,7 @@ export default function Works() {
         <Image
         src={study}
         fill={true}
+        alt="study materials"
         objectFit="cover"
         />
       </div>
@@ -53,6 +56,7 @@ export default function Works() {
         <Image
         src={progress}
         fill={true}
+        alt="progress tracking"
         objectFit="cover"
         />
       </div>
