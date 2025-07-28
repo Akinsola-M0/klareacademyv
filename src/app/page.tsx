@@ -3,7 +3,6 @@ import About from "./components/about";
 import Courses from "./components/courses";
 import Works from "./components/works";
 import Exams from "./components/exams";
-import Test from "./components/text";
 import Register from "./components/register";
 import Link from "next/link";
 import Image from "next/image";
