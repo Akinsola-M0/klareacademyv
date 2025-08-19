@@ -31,7 +31,7 @@ export default function Header() {
 
       </div>
         
-        <div className="mt-6 flex flex-col items-center justify-center h-1/2 relative z-20 opacity-40">
+        <div className="mt-6 lg:mt-0 flex flex-col items-center justify-center h-1/2 relative z-20 opacity-40">
             <h1 className="text-3xl  md:text-5xl lg:text-9xl font-bold mb-4"> KLARE ACADEMY </h1>
 
             <div>
